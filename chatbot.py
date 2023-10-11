@@ -10,7 +10,8 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.vectorstores import FAISS
 
 # Replicate API token to access llama2
-os.environ['REPLICATE_API_TOKEN'] = "r8_cAuNFO7H08S8DwoZfUczo5AJaq5AmlT2AEGKm"
+# create a replicate account and get the secret api token associated with your account
+os.environ['REPLICATE_API_TOKEN'] = "use_replicate_api_token"
 
 
 def get_textchunks(pdf):
