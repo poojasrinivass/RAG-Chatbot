@@ -1,0 +1,7 @@
+langchain-llms==0.0.1
+langchain-vectorstores==0.0.1
+langchain-text_splitter==0.0.1
+langchain-document_loaders==0.0.1
+langchain-embeddings==0.0.1
+langchain-chains==0.0.1
+faiss-cpu==1.7.1.post2
