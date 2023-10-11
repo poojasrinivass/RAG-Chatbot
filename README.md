@@ -4,6 +4,6 @@ The chatbot is powered by the replicate API hosting the Llama language model, al
 
 # Running the code
 
-Clone the repository
-Install the dependencies
-Run - python chatbot.py on your terminal
+1. Clone the repository  
+2. Install the dependencies  
+3. Run - python chatbot.py on your terminal  
