@@ -4,6 +4,6 @@ The chatbot is powered by the replicate API hosting the Llama language model, al
 
 # Running the code
 
-1. Clone the repository  
-2. Install the dependencies  
-3. Run - python chatbot.py on your terminal  
+1. Clone the repository ```git clone https://github.com/poojasrinivass/RAG-Chatbot.git``` ```cd RAG-Chatbot```  
+2. Install the dependencies ```pip install -r requirements.txt```
+3. Start the chatbot on your terminal ```python chatbot.py```  
